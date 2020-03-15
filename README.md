@@ -17,20 +17,23 @@
 ### 教材网课
   众所周知，B站是个学习网站。
   
-  教材的作者在人大开设的数据库课程：https://www.bilibili.com/video/av20449194?p=1
+  教材的作者在人大开设的数据库[课程](https://www.bilibili.com/video/av20449194?p=1)
   
   我只看了前几集，因为我觉得有一丢丢劝退，逃ε=ε=ε=┏(゜ロ゜;)┛
   
 ### 网上教程
-  * [优达学堂 Udacity](#https://cn.udacity.com/course/intro-to-relational-databases--ud197)
+  * [优达学堂 Udacity](https://cn.udacity.com/course/intro-to-relational-databases--ud197)
+  
   这个课程相当的基础，感觉上很像MATLAB官网网课的风格。交互式，每小节只要十几分钟，轻松简单，适合入门。
   课程包括MySQL的最最最基础的知识和MySQL与Python的交互。要注意的是，这个课程篇幅太短，很多必要的知识都没讲。
   **可能需要科学上网**
   
-  * [MySQL-TUTORIAL](#https://www.mysqltutorial.org/)
-  我现在主要看这个。讲解清晰，配合例子，我很喜欢。里面有一丢丢错误，我把我发现的都汇总了。 **可能需要科学上网**
+  * [MySQL-TUTORIAL](https://www.mysqltutorial.org/)
   
-  * [w3school](#https://www.w3schools.com/)
+  我现在主要看这个。讲解清晰，配合例子，我很喜欢。里面有一丢丢错误，我把我发现的都[汇总](https://github.com/LucaJiang/My-MySQL-TUTORIAL/blob/master/bugs_in_MySQL_TUTORIAL)了。 **可能需要科学上网**
+  
+  * [w3school](https://www.w3schools.com/)
+  
   如果不是这玩意广告太烦人，我就看这个了。之后有时间应该会用它配套的练习。
   
   * YouTube 上也有免费的MySQL课程，可以去看看。
