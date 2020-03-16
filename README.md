@@ -43,7 +43,7 @@
   
 * 线路一(我使用的)：
   ```
-  优达学堂 -> MySQL-TUTORIAL -> w3school的练习 -> 课程教材
+  优达学堂 -> MySQL-TUTORIAL(basic_tutorial) -> w3school的练习 -> 课程教材 -> MySQL-TUTORIAL(advanced_tutorial) -> 课程教材
   ```
   我选这条路主要是不喜欢听课...
   
